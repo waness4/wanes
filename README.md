@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Wanessa!
 
-Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com React, Node.js e TypeScript.
+Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com React, **Next.js** e TypeScript.
 
 ---
 
@@ -8,7 +8,7 @@ Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
@@ -16,7 +16,6 @@ Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com
 </div>
 
 ---
-
 
 ## 📂 Projetos
 
@@ -26,5 +25,3 @@ Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com
 ## ✉️ Contato
 
 📧 Email: [wanessawlodrigues@gmail.com]
-
-

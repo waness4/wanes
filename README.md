@@ -1,6 +1,12 @@
-# 👋 Olá, eu sou Wanessa!
+<div align="center">
+  # Hi there, I'm Wanessa 🎀
+</div>
+---
 
-Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com React, **Next.js** e TypeScript.
+## I'm a tech enthusiast
+😃 I'm a frontend focused developer
+📖 I'm currently studying React, Next.js, Typescript
+🏢 I'm currently unemployed and available for hire
 
 ---
 
@@ -15,11 +21,6 @@ Sou desenvolvedora e atualmente, estou focando no desenvolvimento full-stack com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="60" height="60"/>&nbsp;
 </div>
 
----
-
-## 📂 Projetos
-
-### Em andamento...
 ---
 
 ## ✉️ Contato

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/name-flower.png" alt="Wanessa Rodrigues com uma flor rosa girando" width="720">
+  <img src="./assets/name-flower-line.png" alt="Flor de contorno fino girando e ondulando acima de Wanessa Rodrigues" width="720">
 </p>
 
 <p align="center">

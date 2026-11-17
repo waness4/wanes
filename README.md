@@ -31,7 +31,3 @@
 [wanessawlodrigues@gmail.com](mailto:wanessawlodrigues@gmail.com)
 
 <br>
-
----
-
-<p align="center"><sub>Wanessa</sub></p>

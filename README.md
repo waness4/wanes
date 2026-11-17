@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Wanessa — apresentação" width="100%">
+  <img src="./assets/name-flower.png" alt="Wanessa Rodrigues com uma flor rosa girando" width="720">
 </p>
 
 <p align="center">

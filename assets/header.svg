@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Wanessa Rodrigues — Desenvolvimento backend</title>
+<desc id="desc">Apresentação em creme e rosa antigo, com linhas botânicas delicadas e tipografia editorial.</desc>
+<rect width="1200" height="360" rx="24" fill="#FAF5F0"/>
+<rect x="18" y="18" width="1164" height="324" rx="16" fill="none" stroke="#D7B8BC"/>
+<circle cx="1070" cy="115" r="154" fill="#F0DFE0"/>
+<circle cx="1140" cy="300" r="115" fill="#E9E0E7"/>
+<g fill="none" stroke="#A87886" stroke-width="2" stroke-linecap="round">
+<path d="M958 302 Q1035 205 1063 67"/>
+<path d="M1006 231 Q953 221 955 180 Q997 178 1006 231Z"/>
+<path d="M1031 176 Q1081 177 1099 137 Q1059 128 1031 176Z"/>
+<path d="M1048 123 Q1005 112 1015 78 Q1050 81 1048 123Z"/>
+<path d="M978 273 Q1025 287 1050 255 Q1018 233 978 273Z"/>
+</g>
+<text x="76" y="88" fill="#805B6A" font-family="Arial, sans-serif" font-size="13" letter-spacing="5">CÓDIGO COM INTENÇÃO</text>
+<text x="72" y="170" fill="#4A3346" font-family="Georgia, serif" font-size="65">Wanessa Rodrigues</text>
+<text x="77" y="216" fill="#705565" font-family="Arial, sans-serif" font-size="20" letter-spacing="2">DESENVOLVIMENTO BACKEND</text>
+<path d="M77 249 H150" stroke="#B98591" stroke-width="2"/>
+<text x="77" y="289" fill="#705565" font-family="Arial, sans-serif" font-size="17">Lógica, cuidado e atenção aos detalhes.</text>
+</svg>

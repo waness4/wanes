@@ -3,32 +3,26 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp; · &nbsp;
   <a href="#technologies">Technologies</a> &nbsp; · &nbsp;
   <a href="#contact">Contact</a>
 </p>
 
 <br>
 
-## About
-
-### Hi there, I'm Wanessa
-
-I'm a tech enthusiast and a frontend focused developer.
-
-I'm currently studying **React, Next.js and TypeScript**.
-
-I'm currently unemployed and available for hire.
-
-<br>
-
 ## Technologies
 
-| Interface | Data | Tools |
-| :--- | :--- | :--- |
-| React | PostgreSQL | GitHub |
-| Next.js | | VS Code |
-| TypeScript | | |
+<div align="center">
+  <table>
+    <tr>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="44" height="44"><br><sub>React</sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" height="44"><br><sub>Next.js</sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44"><br><sub>TypeScript</sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="44" height="44"><br><sub>GitHub</sub></td>
+    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="44" height="44"><br><sub>VS Code</sub></td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
